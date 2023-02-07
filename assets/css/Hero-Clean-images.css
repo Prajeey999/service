@@ -1,0 +1,45 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.btn {
+}
+
+.btn {
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 0px;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+@media (min-width: 768px) {
+  .navbar {
+  }
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.card-body:hover {
+  border: none;
+  transition: 0.7s;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.card-body {
+}
+
+.card {
+  border: none;
+}
+
+.btn {
+  text-decoration-line: none;
+  text-decoration: none;
+}
+
